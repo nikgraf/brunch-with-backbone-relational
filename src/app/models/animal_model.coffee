@@ -1,0 +1,1 @@
+class exports.AnimalModel extends Backbone.RelationalModel
